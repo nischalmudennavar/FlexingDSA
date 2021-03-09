@@ -1,6 +1,6 @@
 # FlexingDSA 
 
-<img src="https://i.pinimg.com/originals/47/ca/c8/47cac854462569b133f9799a3fb16f69.gif" style="width:200px">
+<img src="https://i.pinimg.com/originals/47/ca/c8/47cac854462569b133f9799a3fb16f69.gif" style="width:100px">
 
 #### So I am at my Final Year of CSE Major (Graduation year 2021 👻) and the thought of Re-learning DSA ( again this time with no ignorance 👉👈) doesnt seem to go away... So here it is...My DSA for a day until I get fairly good 😏
 
