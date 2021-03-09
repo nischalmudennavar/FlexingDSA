@@ -1,5 +1,5 @@
 # FlexingDSA 
-#### So I am at my Final Year of CSE Major (Graduation year 2021 👻) and the thought of Re-learning DSA ( again this time with no ignorance 👉👈) doesnt seem to go away so here it is...My DSA for a day until I get fairly good 😏
+#### So I am at my Final Year of CSE Major (Graduation year 2021 👻) and the thought of Re-learning DSA ( again this time with no ignorance 👉👈) doesnt seem to go away... So here it is...My DSA for a day until I get fairly good 😏
 
 | Algorithm 🤯     | Python 🐍 | Javascript  🧠 | Flex Level 😏 | Date 📅 |
 | ----------- | ----------- | ----------- | ----------- |-----|
