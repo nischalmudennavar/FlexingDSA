@@ -2,18 +2,20 @@
 
 const quick=(sequence)=>{
       
-    let len= sequence.length;
+    let len = sequence.length;
     if (len <= 1){
         return sequence;
     }
     else{
         var pivot = sequence.pop();
+        // grabbing the pivot 
     }
-    var items_lower=[], items_upper=[];
+    var items_lower = [], items_upper = [];
     sequence.forEach(item => {
-
-        if(item>pivot){
+              // comparing array items with pivot 
+        if(item > pivot){
             items_upper.push(item);
+          
         }
         else{
             items_lower.push(item);
