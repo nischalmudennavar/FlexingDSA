@@ -5,6 +5,6 @@
 
 | Algorithm 🤯     | Python 🐍 | Javascript  🧠 | Java | Flex Level 😏 | Date 📅 |
 | ----------- | ----------- | ----------- | ---------- |----------- |-----|
-| QuickSort     | ✅ | ✅ | 8/10 | 9/3/2021
-| Insertion Sort     | ✅ | ✅ | 5/10 🤯 | 11/3/2021
+| QuickSort     | ✅ | ✅ |  |8/10 | 9/3/2021
+| Insertion Sort     | ✅ | ✅ |  |5/10 🤯 | 11/3/2021
 | Cyclic Rotate  |    |     |  ✅  | 10/10 | 
